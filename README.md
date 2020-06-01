@@ -1,5 +1,11 @@
 # Automatic_Scoring_Program
 
+[CAUTION]
+
+I'm not a native english speaker, so please consider it when you read this script. This program was written at Ubuntu Linux.
+
+[OVERVIEW]
+
 It was the first linux system programming project in first semester of 2019.
 The function of this project is to score student's midterm exam with the right answer files. 
 
